@@ -1,0 +1,898 @@
+<Profession name="Enchanting" version="1.10.2">
+	<item label="Minor Wizard Oil" skill="45" slot="Consumable" source="Recipe, Vendor" quality="common">
+		<description>While applied to target weapon it increases spell damage by up to 8. Lasts for 30 minutes. (Charges 5)</description>
+		<materials>
+			<item label="Stange Dust" ammount="2" />
+			<item label="Maple Seed" ammount="1"/>
+			<item label="Empty Vial" ammount="1" />
+			<item label="Runed Copper Rod" ammount="1" />
+		</materials>
+	</item>
+	<item label="Minor Mana Oil" skill="150" slot="Consumable" source="Recipe, Vendor, Trainer" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Lesser Wizard Oil" skill="200" slot="Consumable" source="Recipe, Vendor, Trainer" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Lesser Mana Oil" skill="250" slot="Consumable" source="Recipe, Vendor" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Wizard Oil" skill="275" slot="Consumable" source="Recipe, Vendor" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Brilliant Mana Oil" skill="300" slot="Consumable" source="Recipe, Vendor" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Brilliant Wizard Oil" skill="300" slot="Consumable" source="Recipe, Vendor" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	
+	
+	<item label="Lesser Intellect" skill="100" slot="Enchant 2H Weapon" source="Recipe, Vendor" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Lesser Spirit" skill="110" slot="Enchant 2H Weapon" source="Recipe, Drop" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Lesser Impact" skill="145" slot="Enchant 2H Weapon" source="Trainer" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Greater Impact" skill="240" slot="Enchant 2H Weapon" source="Trainer" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Agility" skill="290" slot="Enchant 2H Weapon" source="Recipe, Vendor" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Superior Impact" skill="295" slot="Enchant 2H Weapon" source="Recipe, Drop" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Major Intellect" skill="300" slot="Enchant 2H Weapon" source="Recipe, Drop" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Major Spirit" skill="300" slot="Enchant 2H Weapon" source="Recipe, Drop" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	
+	
+	<item label="Minor Agility" skill="125" slot="Enchant Boots" source="Recipe, Vendor" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Lesser Spirit" skill="190" slot="Enchant Boots" source="Recipe, Drop" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Minor Speed" skill="225" slot="Enchant Boots" source="Trainer" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Agility" skill="235" slot="Enchant Boots" source="Trainer" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Greater Stamina" skill="260" slot="Enchant Boots" source="Recipe, Drop" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Spirit" skill="275" slot="Enchant Boots" source="Recipe, Drop" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Greater Agility" skill="295" slot="Enchant Boots" source="Recipe, Drop" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+
+
+	<item label="Minor Deflect" skill="20" slot="Enchant Bracer" source="Trainer" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Minor Spirit" skill="60" slot="Enchant Bracer" source="Recipe, Drop" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Minor Strength" skill="80" slot="Enchant Bracer" source="Recipe, Drop" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Lesser Spirit" skill="120" slot="Enchant Bracer" source="Recipe, Drop" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Lesser Stamina" skill="130" slot="Enchant Bracer" source="Trainer" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Lesser Strength" skill="140" slot="Enchant Bracer" source="Recipe, Vendor" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Lesser Deflection" skill="170" slot="Enchant Bracer" source="Recipe" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Strength" skill="180" slot="Enchant Bracer" source="Trainer" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Greater Spirit" skill="220" slot="Enchant Bracer" source="Recipe, Drop" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Deflection" skill="235" slot="Enchant Bracer" source="Recipe, Vendor" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Greater Stamina" skill="245" slot="Enchant Bracer" source="Recipe, Drop" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Greater Intellect" skill="255" slot="Enchant Bracer" source="Recipe, Drop" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Superior Spirit" skill="270" slot="Enchant Bracer" source="Recipe, Drop" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Mana Regeneration" skill="290" slot="Enchant Bracer" source="Recipe, Vendor" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Superior Strength" skill="295" slot="Enchant Bracer" source="Recipe, Drop" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Healing Power" skill="300" slot="Enchant Bracer" source="Recipe, Vendor" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Superior Stamina" skill="300" slot="Enchant Bracer" source="Recipe, Drop" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+
+
+	<item label="Minor Mana" skill="20" slot="Enchant Chest" source="Recipe, Vendor, Drop" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Lesser Mana" skill="80" slot="Enchant Chest" source="Recipe, Vendor" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Stats" skill="245" slot="Enchant Chest" source="Trainer" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Major Health" skill="275" slot="Enchant Chest" source="Recipe, Vendor" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Major Mana" skill="290" slot="Enchant Chest" source="Recipe, Drop" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Greater Stats" skill="300" slot="Enchant Chest" source="Recipe, Drop" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+
+
+	<item label="Minor Agility" skill="110" slot="Enchant Cloak" source="Recipe, Vendor, Drop" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Lesser Shadow Resistance" skill="135" slot="Enchant Cloak" source="Recipe, Drop" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Resistance" skill="205" slot="Enchant Cloak" source="Trainer" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Greater Defense" skill="205" slot="Enchant Cloak" source="Trainer" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Lesser Agility" skill="225" slot="Enchant Cloak" source="Recipe, Drop" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Lesser Agility" skill="225" slot="Enchant Cloak" source="Recipe, Drop" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Greater Resistance" skill="265" slot="Enchant Cloak" source="Recipe, Drop" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Superior Defense" skill="285" slot="Enchant Cloak" source="Recipe, Vendor" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Stealth" skill="300" slot="Enchant Cloak" source="Recipe, Drop" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Subtlety" skill="300" slot="Enchant Cloak" source="Recipe" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Greater Fire Resistance" skill="300" slot="Enchant Cloak" source="Recipe, Vendor" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Greater Nature Resistance" skill="300" slot="Enchant Cloak" source="Recipe, Vendor" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Dodge" skill="300" slot="Enchant Cloak" source="Recipe, Drop" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+
+
+	<item label="Fishing" skill="145" slot="Enchant Gloves" source="Recipe, Drop" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Herbalism" skill="145" slot="Enchant Gloves" source="Recipe, Drop" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Mining" skill="145" slot="Enchant Gloves" source="Recipe, Drop" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Skinning" skill="200" slot="Enchant Gloves" source="Recipe, Drop" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Advanced Mining" skill="215" slot="Enchant Gloves" source="Recipe, Drop" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Advanced Herbalism" skill="225" slot="Enchant Gloves" source="Recipe, Drop" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Minor Haste" skill="250" slot="Enchant Gloves" source="Trainer" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Riding Skill" skill="250" slot="Enchant Gloves" source="Recipe, Drop" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Greater Agility" skill="270" slot="Enchant Gloves" source="Recipe, Drop" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Greater Agility" skill="295" slot="Enchant Gloves" source="Recipe, Drop" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Greater Strength" skill="295" slot="Enchant Gloves" source="Recipe, Drop" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Superior Agility" skill="300" slot="Enchant Gloves" source="Recipe, Drop" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Threat" skill="300" slot="Enchant Gloves" source="Recipe, Drop" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Healing Power" skill="300" slot="Enchant Gloves" source="Recipe, Drop" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Frost Power" skill="300" slot="Enchant Gloves" source="Recipe, Drop" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Fire Power" skill="300" slot="Enchant Gloves" source="Recipe, Drop" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Shadow Power" skill="300" slot="Enchant Gloves" source="Recipe, Drop" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+
+
+	<item label="Lesser Protection" skill="115" slot="Enchant Shield" source="Recipe, Drop" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Lesser Spirit" skill="130" slot="Enchant Shield" source="Trainer" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Spirit" skill="180" slot="Enchant Shield" source="Trainer" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Lesser Block" skill="195" slot="Enchant Shield" source="Recipe, Drop" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Stamina" skill="210" slot="Enchant Shield" source="Recipe, Drop" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Greater Spirit" skill="230" slot="Enchant Shield" source="Trainer" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Frost Resistance" skill="235" slot="Enchant Shield" source="Recipe, Drop" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Greater Stamina" skill="265" slot="Enchant Shield" source="Recipe, Vendor" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Superior Spirit" skill="280" slot="Enchant Shield" source="Recipe, Drop" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+
+
+	<item label="Minor Beastslayer" skill="90" slot="Enchant Weapon" source="Recipe, Drop" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Winter's Might" skill="190" slot="Enchant Weapon" source="Recipe, Drop" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Lesser Beastslayer" skill="175" slot="Enchant Weapon" source="Recipe, Drop" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Lesser Elemental Slayer" skill="175" slot="Enchant Weapon" source="Recipe, Drop" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Strength" skill="290" slot="Enchant Weapon" source="Recipe, Vendor" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Demonslaying" skill="230" slot="Enchant Weapon" source="Recipe, Drop" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Fiery Weapon" skill="265" slot="Enchant Weapon" source="Recipe, Drop" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Icy Chill" skill="285" slot="Enchant Weapon" source="Recipe, Drop" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Agility" skill="290" slot="Enchant Weapon" source="Recipe, Vendor" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Unholy Weapon" skill="295" slot="Enchant Weapon" source="Recipe, Drop" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Superior Striking" skill="300" slot="Enchant Weapon" source="Recipe, Drop" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Healing Power" skill="300" slot="Enchant Weapon" source="Recipe, Drop" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Spell Power" skill="300" slot="Enchant Weapon" source="Recipe, Drop" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Lifestealing" skill="300" slot="Enchant Weapon" source="Recipe, Drop" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Crusader" skill="300" slot="Enchant Weapon" source="Recipe, Drop" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Mighty Intellect" skill="300" slot="Enchant Weapon" source="Recipe, Vendor" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Mighty Spirit" skill="300" slot="Enchant Weapon" source="Recipe, Vendor" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+
+
+	<item label="Enchanted Leather" skill="250" slot="Enchant Cloak" source="Trainer" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Enchanted Thorium" skill="250" slot="Enchant Cloak" source="Trainer" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+
+
+	<item label="Lesser Magic Wand" skill="90" slot="Wand" source="Trainer" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Lesser Mystic Wand" skill="160" slot="Wand" source="Trainer" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Greater Mystic Wand" skill="175" slot="Wand" source="Trainer" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Greater Magic Wand" skill="230" slot="Wand" source="Trainer" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	
+
+	<item label="Smoking Heart of the Mountain" skill="265" slot="Trinket" source="Recipe, Trainer, Drop" quality="rare">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Runed Arcanite Rod" skill="290" slot="Item" source="Recipe, Vendor, Trainer" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+
+</Profession>

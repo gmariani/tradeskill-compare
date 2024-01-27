@@ -1,0 +1,6 @@
+<Directory>
+	<Profile label="Brocksamson">
+		<Profession label="Tailoring" url="Brocksamson_Tailoring.xml" isBranch="true" />
+		<Profession label="Enchanting" url="Brocksamson_Enchanting.xml" isBranch="true" />
+	</Profile>
+</Directory>

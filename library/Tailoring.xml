@@ -1,0 +1,1710 @@
+<Profession name="Tailoring" version="1.10.2">
+	<item label="Linen Bag" skill="45" slot="6 Slot Bag" source="Trainer" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Red Linen Bag" skill="70" slot="6 Slot Bag" source="Recipe, Vendor" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="4" />
+			<item label="Heavy Leather" ammount="3"/>
+			<item label="Fine Thread" ammount="3" />
+			<item label="Green Dye" ammount="1" />
+		</materials>
+	</item>
+	<item label="Woolen Bag" skill="80" slot="8 Slot Bag" source="Trainer" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="5" />
+			<item label="Black Dye" ammount="1"/>
+			<item label="Fine Thread" ammount="4" />
+		</materials>
+	</item>
+	<item label="Green Woolen Bag" skill="95" slot="8 Slot Bag" source="Recipe, Drop" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Mageweave" ammount="4" />
+			<item label="Silken Thread" ammount="2" />
+		</materials>
+	</item>
+	<item label="Red Woolen Bag" skill="115" slot="8 Slot Bag" source="Recipe, Vendor" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Mageweave" ammount="4" />
+			<item label="red Dye" ammount="1"/>
+			<item label="Fine Thread" ammount="1" />
+		</materials>
+	</item>
+	<item label="Small Silk Pack" skill="150" slot="10 Slot Bag" source="Trainer" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Green Silk Pack" skill="175" slot="10 Slot Bag" source="Recipe, Drop" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Black Silk Pack" skill="185" slot="10 Slot Bag" source="Recipe, Drop" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Mageweave Bag" skill="225" slot="12 Slot Bag" source="Trainer" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Red Mageweave Bag" skill="235" slot="12 Slot Bag" source="Trainer" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Runecloth Bag" skill="260" slot="14 Slot Bag" source="Recipe, Vendor" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Mooncloth Bag" skill="300" slot="16 Slot Bag" source="Recipe, Drop" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Enchanted Mageweave Pouch" skill="235" slot="16 Slot Enchanting Bag" source="Recipe, Vendor" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Bottomless Bag" skill="300" slot="18 Slot Bag" source="Recipe, Drop" quality="rare">
+		<description>Drops off Azuregos</description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Enchanted Runecloth Bag" skill="275" slot="20 Slot Enchanting Bag" source="Recipe" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Cenarion Herb Bag" skill="275" slot="20 Slot Enchanting Bag" source="Vendor" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Big Bag of Enchantment" skill="300" slot="24 Slot Enchanting Bag" source="Recipe" quality="uncommon">
+		<description>Drops off the Mage in North Dire Maul</description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Cenarion Herb Bag" skill="275" slot="20 Slot Herb Bag" source="Recipe" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Satchel of Cenarius" skill="300" slot="24 Slot Herb Bag" source="Recipe" quality="uncommon">
+		<description>Requires Revered with Cenarion Circle</description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Soul Pouch" skill="260" slot="20 Slot Soul Bag" source="Recipe, Vendor" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>	
+	<item label="Core Felcloth Bag" skill="300" slot="28 Slot Soul Bag" source="Recipe, Drop" quality="epic">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+ 
+	
+	<item label="Reinforced Linen Cape" skill="60" slot="Back" source="Trainer" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Woolen Cape" skill="75" slot="Back" source="Trainer" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Pearl-clasped Cloak" skill="90" slot="Back" source="Trainer" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Heavy Woolen Cloak" skill="100" slot="Back" source="Recipe, Drop" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Azure Silk Cloak" skill="175" slot="Back" source="Recipe, Vendor" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Crimson Silk Cloak" skill="180" slot="Back" source="Recipe, Vendor" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Long Silken Cloak" skill="180" slot="Back" source="Trainer" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Icy Cloak" skill="200" slot="Back" source="Recipe, Vendor" quality="rare">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Runecloth Cloak" skill="265" slot="Back" source="Recipe, Vendor" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Cindercloth Cloak" skill="275" slot="Back" source="Recipe, Drop" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Brightcloth Cloak" skill="275" slot="Back" source="Recipe, Drop" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Cloak of Fire" skill="275" slot="Back" source="Recipe, Drop" quality="rare">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Cloak of Warding" skill="300" slot="Back" source="Recipe, Drop" quality="rare">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+
+	
+	<item label="Brown Linen Vest" skill="10" slot="Chest" source="Trainer" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Brown Linen Robe" skill="30" slot="Chest" source="Trainer" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="White Linen Robe" skill="30" slot="Chest" source="Trainer" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Red Linen Robe" skill="40" slot="Chest" source="Recipe" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Simple Dress" skill="40" slot="Chest" source="Trainer" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Red Linen Vest" skill="55" slot="Chest" source="Recipe, Drop" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Blue Linen Vest" skill="55" slot="Chest" source="Recipe, Vendor" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Blue Linen Robe" skill="70" slot="Chest" source="Recipe" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Green Woolen Vest" skill="85" slot="Chest" source="Trainer" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Barbaric Linen Vest" skill="91" slot="Chest" source="Trainer" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Blue Overalls" skill="100" slot="Chest" source="Recipe, Vendor" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Gray Woolen Robe" skill="105" slot="Chest" source="Recipe, Drop" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="White Woolen Dress" skill="110" slot="Chest" source="Trainer" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Greater Adept's Robe" skill="115" slot="Chest" source="Recipe, Vendor" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Lesser Wizard's Robe" skill="135" slot="Chest" source="Trainer" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Azure Silk Vest" skill="150" slot="Chest" source="Trainer" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>	
+	<item label="Robes of Arcana" skill="150" slot="Chest" source="Recipe, Drop" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>	
+	<item label="Green Silk Armor" skill="165" slot="Chest" source="Recipe, Drop" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>	
+	<item label="Earthen Vest" skill="170" slot="Chest" source="Trainer" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>	
+	<item label="Crimson Silk Vest" skill="185" slot="Chest" source="Trainer" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>	
+	<item label="Robe of Power" skill="190" slot="Chest" source="Trainer" quality="rare">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>	
+	<item label="Crimson Silk Robe" skill="205" slot="Chest" source="Recipe, Vendor" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>	
+	<item label="Black Mageweave Vest" skill="205" slot="Chest" source="Trainer" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>	
+	<item label="Black Mageweave Robe" skill="210" slot="Chest" source="Trainer" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>	
+	<item label="Shadoweave Robe" skill="215" slot="Chest" source="Trainer" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Red Mageweave Vest" skill="215" slot="Chest" source="Recipe, Drop" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Cindercloth Robe" skill="225" slot="Chest" source="Trainer" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Dreamweave Vest" skill="225" slot="Chest" source="Trainer" quality="rare">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Simple Black Dress" skill="235" slot="Chest" source="Trainer" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="White Wedding Dress" skill="250" slot="Chest" source="Recipe, Vendor" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Tuxedo Jacket" skill="250" slot="Chest" source="Recipe, Vendor" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Festive Red Dress" skill="250" slot="Chest" source="Recipe" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Festive Red Pant Suit" skill="250" slot="Chest" source="Recipe" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Frostweave Tunic" skill="255" slot="Chest" source="Recipe, Drop" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Frostweave Robe" skill="255" slot="Chest" source="Recipe, Drop" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Runecloth Robe" skill="260" slot="Chest" source="Recipe, Vendor" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Runecloth Tunic" skill="260" slot="Chest" source="Recipe, Drop" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Cindercloth Vest" skill="260" slot="Chest" source="Recipe, Drop" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Brightcloth Robe" skill="270" slot="Chest" source="Recipe, Drop" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Ghostweave Vest" skill="275" slot="Chest" source="Recipe, Drop" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Robe of Winter Night" skill="285" slot="Chest" source="Recipe, Drop" quality="rare">
+		<description>Drops off Cobalt Mageweaver's in Winterspring</description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Wizardweave Robe" skill="300" slot="Chest" source="Recipe, Drop" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Mooncloth Vest" skill="300" slot="Chest" source="Recipe, Drop" quality="rare">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Felcloth Robe" skill="300" slot="Chest" source="Recipe, Drop" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Truefaith Vestments" skill="300" slot="Chest" source="Recipe, Drop" quality="epic">
+		<description>Drops off Balnazzar in SC Strat</description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Robe of the Archmage" skill="300" slot="Chest" source="Recipe, Drop" quality="epic">
+		<description>Drops off Firebrand Pyromancer's in LBRS</description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Robe of the Void" skill="300" slot="Chest" source="Recipe, Drop" quality="epic">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Mooncloth Robe" skill="300" slot="Chest" source="Recipe, Vendor" quality="rare">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Flarecore Robe" skill="300" slot="Chest" source="Recipe, Vendor" quality="epic">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Bloodvine Vest" skill="300" slot="Chest" source="Recipe, Vendor" quality="rare">
+		<description>Requires Revered with Zandalar Tribe</description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+
+	
+	<item label="Simple Linen Boots" skill="20" slot="Feet" source="Trainer" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Linen Boots" skill="65" slot="Feet" source="Trainer" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Soft-soled Linen Boots" skill="80" slot="Feet" source="Trainer" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Woolen Boots" skill="95" slot="Feet" source="Trainer" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Red Woolen Boots" skill="95" slot="Feet" source="Recipe, Drop" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Spidersilk Boots" skill="125" slot="Feet" source="Trainer" quality="rare">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Spider Silk Slippers" skill="140" slot="Feet" source="Recipe, Drop" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Boots of the Enchanter" skill="175" slot="Feet" source="Recipe, Drop" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Black Mageweave Boots" skill="230" slot="Feet" source="Trainer" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Shadoweave Boots" skill="240" slot="Feet" source="Trainer" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Cindercloth Boots" skill="245" slot="Feet" source="Trainer" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Runecloth Boots" skill="280" slot="Feet" source="Recipe, Vendor" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Felcloth Boots" skill="285" slot="Feet" source="Recipe, Drop" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Argent Boots" skill="290" slot="Feet" source="Recipe, Vendor" quality="rare">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Bloodvine Boots" skill="300" slot="Feet" source="Recipe, Vendor" quality="rare">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Runed Stygian Boots" skill="300" slot="Feet" source="Recipe, Drop" quality="rare">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+
+
+	<item label="Heavy Linen Gloves" skill="35" slot="Hands" source="Trainer" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Heavy Woolen Gloves" skill="85" slot="Hands" source="Trainer" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Phoenix Gloves" skill="125" slot="Hands" source="Recipe, Drop" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Gloves of Meditation" skill="130" slot="Hands" source="Trainer" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Azure Silk Gloves" skill="145" slot="Hands" source="Recipe, Vendor" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Hands of Darkness" skill="145" slot="Hands" source="Recipe, Drop" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Truefaith Gloves" skill="150" slot="Hands" source="Recipe" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Crimson Silk Gloves" skill="210" slot="Hands" source="Trainer" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Black Mageweave Gloves" skill="215" slot="Hands" source="Trainer" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Red Mageweave Gloves" skill="225" slot="Hands" source="Recipe, Drop" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Dreamweave Gloves" skill="225" slot="Hands" source="Trainer" quality="rare">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Shadoweave Gloves" skill="225" slot="Hands" source="Trainer" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Frostweave Gloves" skill="265" slot="Hands" source="Recipe, Drop" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Cindercloth Gloves" skill="270" slot="Hands" source="Recipe, Drop" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Ghostweave Gloves" skill="270" slot="Hands" source="Recipe, Drop" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Brightcloth Gloves" skill="270" slot="Hands" source="Recipe, Drop" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Runecloth Gloves" skill="275" slot="Hands" source="Recipe, Vendor" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Gloves of Spell Mastery" skill="300" slot="Hands" source="Recipe, Drop" quality="epic">
+		<description>World drop, mostly in high level bosses and instances.</description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Flarecore Gloves" skill="300" slot="Hands" source="Recipe, Vendor" quality="epic">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Felcloth Gloves" skill="300" slot="Hands" source="Recipe, Drop" quality="rare">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Inferno Gloves" skill="300" slot="Hands" source="Recipe, Drop" quality="rare">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Mooncloth Gloves" skill="300" slot="Hands" source="Recipe, Drop" quality="rare">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+
+
+	<item label="Azure Silk Hood" skill="145" slot="Head" source="Trainer" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Silk Headband" skill="160" slot="Head" source="Trainer" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Enchanter's Cowl" skill="165" slot="Head" source="Vendor" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Shadow Hood" skill="170" slot="Head" source="Recipe, Drop" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="White Bandit Mask" skill="215" slot="Head" source="Recipe, Drop" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Black Mageweave Headband" skill="230" slot="Head" source="Trainer" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Admiral's Hat" skill="240" slot="Head" source="Recipe, Vendor" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Red Mageweave Headband" skill="240" slot="Head" source="Recipe, Drop" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Shadoweave Mask" skill="245" slot="Head" source="Recipe" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Dreamweave Circlet" skill="250" slot="Head" source="Trainer" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Felcloth Hood" skill="290" slot="Head" source="Recipe, Drop" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Runecloth Headband" skill="295" slot="Head" source="Recipe, Drop" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Wizardweave Turban" skill="300" slot="Head" source="Recipe, Drop" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Mooncloth Circlet" skill="300" slot="Head" source="Recipe, Drop" quality="rare">
+		<description>World drop, mostly in high level bosses and instances.</description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+
+
+	<item label="Brown Linen Pants" skill="30" slot="Legs" source="Trainer" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Simple Kilt" skill="75" slot="Legs" source="Trainer" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Handstitched Linen Britches" skill="91" slot="Legs" source="Trainer" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Heavy Woolen Pants" skill="110" slot="Legs" source="Trainer" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Colorful Kilt" skill="120" slot="Legs" source="Recipe, Drop" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Phoenix Pants" skill="125" slot="Legs" source="Recipe, Drop" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Azure Silk Pants" skill="140" slot="Legs" source="Trainer" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Crimson Silk Pantaloons" skill="195" slot="Legs" source="Trainer" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Black Mageweave Leggings" skill="205" slot="Legs" source="Trainer" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Shadoweave Pants" skill="210" slot="Legs" source="Trainer" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Red Mageweave Pants" skill="215" slot="Legs" source="Recipe, Drop" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Tuxedo Pants" skill="245" slot="Legs" source="Recipe, Vendor" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Felcloth Pants" skill="275" slot="Legs" source="Recipe, Vendor" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Wizardweave Leggings" skill="275" slot="Legs" source="Recipe, Drop" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Frostweave Pants" skill="280" slot="Legs" source="Recipe, Drop" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Cindercloth Pants" skill="280" slot="Legs" source="Recipe, Drop" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Runecloth Pants" skill="285" slot="Legs" source="Recipe, Drop" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Brightcloth Pants" skill="290" slot="Legs" source="Recipe, Drop" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Mooncloth Leggings" skill="290" slot="Legs" source="Recipe, Drop" quality="rare">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Ghostweave Pants" skill="290" slot="Legs" source="Recipe, Drop" quality="uncommon">
+		<description>Drops of Spectral Citizens in SC Stratholme</description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Flarecore Leggings" skill="300" slot="Legs" source="Recipe, Vendor" quality="epic">
+		<description>Requires Revered with Thorium Brotherhood</description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Bloodvine Leggings" skill="300" slot="Legs" source="Recipe, Vendor" quality="rare">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Runed Stygian Leggings" skill="300" slot="Legs" source="Recipe, Drop" quality="rare">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+
+
+	<item label="White Linen Shirt" skill="1" slot="Shirt" source="Trainer" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Red Linen Shirt" skill="40" slot="Shirt" source="Trainer" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Blue Linen Shirt" skill="40" slot="Shirt" source="Trainer" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Green Linen Shirt" skill="91" slot="Shirt" source="Trainer" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Gray Woolen Shirt" skill="100" slot="Shirt" source="Trainer" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Stylish Red Shirt" skill="110" slot="Shirt" source="Trainer" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Stylish Blue Shirt" skill="120" slot="Shirt" source="Recipe, Drop" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Stylish Green Shirt" skill="120" slot="Shirt" source="Recipe, Drop" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Bright Yellow Shirt" skill="135" slot="Shirt" source="Recipe, Vendor" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Dark Silk Shirt" skill="155" slot="Shirt" source="Recipe, Vendor" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="White Swashbuckler's Shirt" skill="160" slot="Shirt" source="Trainer" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Formal White Shirt" skill="170" slot="Shirt" source="Trainer" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Red Swashbuckler's Shirt" skill="175" slot="Shirt" source="Trainer" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Rich Purple Silk Shirt" skill="185" slot="Shirt" source="Recipe, Drop" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Green Holiday Shirt" skill="190" slot="Shirt" source="Recipe, Drop" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Black Swashbuckler's Shirt" skill="200" slot="Shirt" source="Recipe, Vendor" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Orange Mageweave Shirt" skill="215" slot="Shirt" source="Trainer" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Orange Martial Shirt" skill="220" slot="Shirt" source="Recipe" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Lavender Mageweave Shirt" skill="230" slot="Shirt" source="Recipe, Vendor" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Pink Mageweave Shirt" skill="235" slot="Shirt" source="Recipe, Vendor" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Tuxedo Shirt" skill="240" slot="Shirt" source="Recipe, Vendor" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+
+
+	<item label="Double-stitched Woolen Shoulders" skill="110" slot="Shoulder" source="Trainer" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Reinforced Woolen Shoulders" skill="120" slot="Shoulder" source="Recipe, Drop" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Green Silken Shoulders" skill="180" slot="Shoulder" source="Trainer" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Crimson Silk Shoulders" skill="190" slot="Shoulder" source="Recipe, Drop" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Azure Shoulders" skill="190" slot="Shoulder" source="Recipe, Drop" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Black Mageweave Shoulders" skill="230" slot="Shoulder" source="Trainer" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Shadoweave Shoulders" skill="235" slot="Shoulder" source="Trainer" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Red Mageweave Shoulders" skill="235" slot="Shoulder" source="Recipe, Drop" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Mooncloth Shoulders" skill="300" slot="Shoulder" source="Recipe, Drop" quality="rare">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Runecloth Shoulders" skill="300" slot="Shoulder" source="Recipe, Drop" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Felcloth Shoulders" skill="300" slot="Shoulder" source="Recipe, Drop" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Flarecore Mantle" skill="300" slot="Shoulder" source="Recipe, Vendor" quality="epic">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Mantle of the Timbermaw" skill="300" slot="Shoulder" source="Recipe, Vendor" quality="rare">
+		<description>Requires Revered with Timbermaw Hold</description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Argent Shoulders" skill="300" slot="Shoulder" source="Recipe, Vendor" quality="rare">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+
+
+	<item label="Linen Belt" skill="15" slot="Waist" source="Trainer" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Azure Silk Belt" skill="175" slot="Waist" source="Trainer" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Crimson Silk Belt" skill="175" slot="Waist" source="Trainer" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Spider Belt" skill="180" slot="Waist" source="Recipe, Drop" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Earthen Silk Belt" skill="190" slot="Waist" source="Recipe, Drop" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Star Belt" skill="200" slot="Waist" source="Recipe, Drop" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Runecloth Belt" skill="255" slot="Waist" source="Trainer" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Ghostweave Belt" skill="265" slot="Waist" source="Recipe, Drop" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Wisdom of the Timbermaw" skill="290" slot="Waist" source="Recipe, Vendor" quality="rare">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Belt of the Archmage" skill="300" slot="Waist" source="Recipe, Drop" quality="epic">
+		<description>In ThimbleKnot's Cache inside North Dire Maul</description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Runed Stygian Belt" skill="300" slot="Waist" source="Recipe, Drop" quality="rare">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+
+
+	<item label="Green Linen Bracers" skill="60" slot="Wrist" source="Trainer" quality="common">
+		<description></description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	<item label="Flarecore Wraps" skill="300" slot="Wrist" source="Recipe, Drop" quality="epic">
+		<description>Drops off MC Bosses</description>
+		<materials>
+			<item label="Bolt of Silk Cloth" ammount="3" />
+			<item label="Heavy Leather" ammount="2"/>
+			<item label="Fine Thread" ammount="3" />
+		</materials>
+	</item>
+	
+	
+	<item label="Bolt of Woolen Cloth" skill="75" slot="None" source="Trainer" quality="common">
+		<description></description>
+		<materials>
+			<item label="Wool" ammount="2" />
+		</materials>
+	</item>
+	<item label="Bolt of Silk Cloth" skill="125" slot="None" source="Trainer" quality="common">
+		<description></description>
+		<materials>
+			<item label="Silk Cloth" ammount="3" />
+		</materials>
+	</item>
+	<item label="Bolt of Mageweave" skill="175" slot="None" source="Trainer" quality="common">
+		<description></description>
+		<materials>
+			<item label="Mageweave" ammount="4" />
+		</materials>
+	</item>
+	<item label="Bolt of Runecloth" skill="250" slot="None" source="Trainer" quality="common">
+		<description></description>
+		<materials>
+			<item label="Runecloth" ammount="5" />
+		</materials>
+	</item>
+	<item label="Mooncloth" skill="250" slot="None" source="Recipe, Vendor" quality="uncommon">
+		<description></description>
+		<materials>
+			<item label="Felcloth" ammount="2" />
+		</materials>
+	</item>
+</Profession>
